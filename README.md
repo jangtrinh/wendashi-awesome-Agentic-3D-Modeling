@@ -14,6 +14,7 @@
   - [Executable World Models & Physical Reasoning](#executable-world-models-physical-reasoning)
   - [Agentic (3D) Game Generation/Development](#agentic-3d-game-generation-development)
   - [Agentic 3D Benchmarks](#agentic-3d-benchmarks)
+  - [MLLM-based 3D Generation and Understanding](#mllm-based-3d-generation-and-understanding)
 - [3D Agents & Modeling Frameworks](#agents-modeling-frameworks)
   - [Vision & CAD Integration](#vision-cad-integration)
   - [CAD & Engineering Design](#cad-engineering-design)
@@ -84,11 +85,9 @@
 
 7. [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation](https://github.com/physx-omni/PhysX-Omni) | Physical 3D generation, rigid/deformable/articulated objects <a href="https://github.com/physx-omni/PhysX-Omni" title="GitHub Repo"><img src="https://img.shields.io/github/stars/physx-omni/PhysX-Omni.svg?style=social" alt="Stars"></a>
 
-8. [ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding](https://github.com/JAMESYJL/ShapeLLM-Omni) - **NeurIPS 2025 Spotlight** | Multimodal LLM <a href="https://github.com/JAMESYJL/ShapeLLM-Omni" title="GitHub Repo"><img src="https://img.shields.io/github/stars/JAMESYJL/ShapeLLM-Omni.svg?style=social" alt="Stars"></a>
+8. [MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh](https://github.com/Fangkang515/MeshLLM) - **ICCV 2025** | Multimodal LLM <a href="https://github.com/Fangkang515/MeshLLM" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Fangkang515/MeshLLM.svg?style=social" alt="Stars"></a>
 
-9. [MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh](https://github.com/Fangkang515/MeshLLM) - **ICCV2025** | Multimodal LLM <a href="https://github.com/Fangkang515/MeshLLM" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Fangkang515/MeshLLM.svg?style=social" alt="Stars"></a>
-
-10. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo"><img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars"></a>
+9. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo"><img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars"></a>
 
 <a id="agentic-3d-material-shader-generation"></a>
 ### Agentic 3D Material / Shader Generation
@@ -122,6 +121,16 @@
 2. [BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://github.com/BenchCAD/BenchCAD-main) - **2026** | Execution-grounded programmatic CAD benchmark, 17,900 CadQuery programs, vision-to-code, code editing, and QA tasks <a href="https://github.com/BenchCAD/BenchCAD-main" title="GitHub Repo"><img src="https://img.shields.io/github/stars/BenchCAD/BenchCAD-main.svg?style=social" alt="Stars"></a>
 
 3. [BenchCAD 2.0](https://github.com/BenchCAD-org/benchcad-2) - **2026** | Community-grounded parametric CAD benchmark data pipeline, auditable part families, multi-turn refinement, and successor repository to BenchCAD <a href="https://github.com/BenchCAD-org/benchcad-2" title="GitHub Repo"><img src="https://img.shields.io/github/stars/BenchCAD-org/benchcad-2.svg?style=social" alt="Stars"></a>
+
+<a id="mllm-based-3d-generation-and-understanding"></a>
+### MLLM-based 3D Generation and Understanding
+
+1. [CG-MLLM: Captioning and Generating 3D Content via Multi-modal Large Language Models](https://arxiv.org/abs/2601.21798) - **ICML 2026** | Unified MLLM for 3D captioning, image-to-3D generation, and 3D understanding with fine-grained geometry <a href="https://github.com/dreaming-huang/CG-MLLM" title="GitHub Repo"><img src="https://img.shields.io/github/stars/dreaming-huang/CG-MLLM.svg?style=social" alt="Stars"></a>
+
+2. [ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding](https://arxiv.org/abs/2506.01853) - **NeurIPS 2025 Spotlight** | Native multimodal LLM for 3D generation, understanding, and interactive editing <a href="https://github.com/JAMESYJL/ShapeLLM-Omni" title="GitHub Repo"><img src="https://img.shields.io/github/stars/JAMESYJL/ShapeLLM-Omni.svg?style=social" alt="Stars"></a>
+
+3. [SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE](https://arxiv.org/abs/2411.16856) - **CVPR 2025** | Autoregressive 3D generation and understanding, text/image-conditioned object synthesis, multi-scale 3D VQVAE <a href="https://github.com/cyw-3d/SAR3D" title="GitHub Repo"><img src="https://img.shields.io/github/stars/cyw-3d/SAR3D.svg?style=social" alt="Stars"></a>
+
 
 <a id="agents-modeling-frameworks"></a>
 ## 🎯 3D Agents & Modeling Frameworks
