@@ -40,33 +40,35 @@
 
 4. [Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis](https://code-as-room.github.io/) - **arXiv 2026** | Multi-stage MLLM agents, Blender code, cross-stage memory <a href="https://github.com/YxuanAr/Code-as-Room" title="GitHub Repo"><img src="https://img.shields.io/github/stars/YxuanAr/Code-as-Room.svg?style=social" alt="Stars"></a>
 
-5. [SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation](https://arxiv.org/abs/2607.01766) - **arXiv 2026** | Dynamic 4D scenes, Blender agents, deterministic verification
+5. [VIGA: Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](https://arxiv.org/abs/2601.11109) - **arXiv 2026** | Analysis-by-synthesis code agent, interleaved generator-verifier loop, Blender scene reconstruction, editing, and dynamic scene synthesis <a href="https://github.com/Fugtemypt123/VIGA" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Fugtemypt123/VIGA.svg?style=social" alt="Stars"></a>
 
-6. [EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI](https://horizonrobotics.github.io/EmbodiedGen/) - **arXiv 2026** | Simulation-ready worlds, physics-validated editing, cross-simulator export <a href="https://github.com/HorizonRobotics/EmbodiedGen" title="GitHub Repo"><img src="https://img.shields.io/github/stars/HorizonRobotics/EmbodiedGen.svg?style=social" alt="Stars"></a>
+6. [SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation](https://arxiv.org/abs/2607.01766) - **arXiv 2026** | Dynamic 4D scenes, Blender agents, deterministic verification
 
-7. [MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks](https://github.com/AgibotGeneral/MANSION) - **CVPR 2026** | LLM-driven procedural multi-floor building generation. Given a natural-language description (e.g., "2-story office building with conference rooms"), generates complete building layouts including room segmentation, walls, doors, windows, furniture placement, lighting, and top-down rendered images.
+7. [EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI](https://horizonrobotics.github.io/EmbodiedGen/) - **arXiv 2026** | Simulation-ready worlds, physics-validated editing, cross-simulator export <a href="https://github.com/HorizonRobotics/EmbodiedGen" title="GitHub Repo"><img src="https://img.shields.io/github/stars/HorizonRobotics/EmbodiedGen.svg?style=social" alt="Stars"></a>
 
-8. [MUSE: Agentic 3D Scene Authoring via Memory-Grounded Incremental Requirement Satisfaction](https://arxiv.org/abs/2606.14168) - **arXiv 2026** | Multi-agent scene construction and editing, memory, verification
+8. [MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks](https://github.com/AgibotGeneral/MANSION) - **CVPR 2026** | LLM-driven procedural multi-floor building generation. Given a natural-language description (e.g., "2-story office building with conference rooms"), generates complete building layouts including room segmentation, walls, doors, windows, furniture placement, lighting, and top-down rendered images.
 
-9. [SceneConductor: 3D Scene Generation from Single Image with Multi-Agent Orchestration](https://arxiv.org/abs/2606.08402) - **arXiv 2026** | Multi-agent scene construction, planner-guided refinement
+9. [MUSE: Agentic 3D Scene Authoring via Memory-Grounded Incremental Requirement Satisfaction](https://arxiv.org/abs/2606.14168) - **arXiv 2026** | Multi-agent scene construction and editing, memory, verification
 
-10. [PhysAgent: Automating Physics-Based 4D Synthesis via Trajectory-Grounded Multi-Agent Feedback](https://arxiv.org/abs/2606.08688) - **arXiv 2026** | Simulator-in-the-loop agents, force-field generation, trajectory feedback
+10. [SceneConductor: 3D Scene Generation from Single Image with Multi-Agent Orchestration](https://arxiv.org/abs/2606.08402) - **arXiv 2026** | Multi-agent scene construction, planner-guided refinement
 
-11. [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://github.com/nepfaff/scenesmith) - **ICML 2026 Spotlight** | Scene generation, interactive environments <a href="https://github.com/nepfaff/scenesmith" title="GitHub Repo"><img src="https://img.shields.io/github/stars/nepfaff/scenesmith.svg?style=social" alt="Stars"></a>
+11. [PhysAgent: Automating Physics-Based 4D Synthesis via Trajectory-Grounded Multi-Agent Feedback](https://arxiv.org/abs/2606.08688) - **arXiv 2026** | Simulator-in-the-loop agents, force-field generation, trajectory feedback
 
-12. [SAGE: Scalable Agentic for 3D Generation and Editing](https://github.com/NVlabs/sage) - **CVPR 2026** | Scene generation, interactive environments <a href="https://github.com/NVlabs/sage" title="GitHub Repo"><img src="https://img.shields.io/github/stars/NVlabs/sage.svg?style=social" alt="Stars"></a>
+12. [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://github.com/nepfaff/scenesmith) - **ICML 2026 Spotlight** | Scene generation, interactive environments <a href="https://github.com/nepfaff/scenesmith" title="GitHub Repo"><img src="https://img.shields.io/github/stars/nepfaff/scenesmith.svg?style=social" alt="Stars"></a>
 
-13. [Agentic World Modeling](https://github.com/matrix-agent/awesome-agentic-world-modeling) - Agentic world modeling, multimodal agents, and world-modeling resources <a href="https://github.com/matrix-agent/awesome-agentic-world-modeling" title="GitHub Repo"><img src="https://img.shields.io/github/stars/matrix-agent/awesome-agentic-world-modeling.svg?style=social" alt="Stars"></a>
+13. [SAGE: Scalable Agentic for 3D Generation and Editing](https://github.com/NVlabs/sage) - **CVPR 2026** | Scene generation, interactive environments <a href="https://github.com/NVlabs/sage" title="GitHub Repo"><img src="https://img.shields.io/github/stars/NVlabs/sage.svg?style=social" alt="Stars"></a>
 
-14. [Scene-Weaver: Multi-Scene Choreography for Interactable Virtual Worlds](https://github.com/Scene-Weaver/SceneWeaver) - **NeurIPS 2025** | Scene generation, interactive environments <a href="https://github.com/Scene-Weaver/SceneWeaver" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Scene-Weaver/SceneWeaver.svg?style=social" alt="Stars"></a>
+14. [Agentic World Modeling](https://github.com/matrix-agent/awesome-agentic-world-modeling) - Agentic world modeling, multimodal agents, and world-modeling resources <a href="https://github.com/matrix-agent/awesome-agentic-world-modeling" title="GitHub Repo"><img src="https://img.shields.io/github/stars/matrix-agent/awesome-agentic-world-modeling.svg?style=social" alt="Stars"></a>
 
-15. [IDesign: Product Intelligent Design System Powered by Generative AI and Designers](https://github.com/atcelen/IDesign/) - **ECCV 2024** | Generative design, human-AI collaboration <a href="https://github.com/atcelen/IDesign/" title="GitHub Repo"><img src="https://img.shields.io/github/stars/atcelen/IDesign.svg?style=social" alt="Stars"></a>
+15. [Scene-Weaver: Multi-Scene Choreography for Interactable Virtual Worlds](https://github.com/Scene-Weaver/SceneWeaver) - **NeurIPS 2025** | Scene generation, interactive environments <a href="https://github.com/Scene-Weaver/SceneWeaver" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Scene-Weaver/SceneWeaver.svg?style=social" alt="Stars"></a>
 
-16. [SceneTeller: Language-to-3D Scene Generation](https://github.com/sceneteller/SceneTeller) - **ECCV 2024** | Language-to-3D scene, spatial reasoning <a href="https://github.com/sceneteller/SceneTeller" title="GitHub Repo"><img src="https://img.shields.io/github/stars/sceneteller/SceneTeller.svg?style=social" alt="Stars"></a>
+16. [IDesign: Product Intelligent Design System Powered by Generative AI and Designers](https://github.com/atcelen/IDesign/) - **ECCV 2024** | Generative design, human-AI collaboration <a href="https://github.com/atcelen/IDesign/" title="GitHub Repo"><img src="https://img.shields.io/github/stars/atcelen/IDesign.svg?style=social" alt="Stars"></a>
 
-17. [Holodeck: Language-Driven Scene Construction in Virtual Environments](https://github.com/allenai/Holodeck) - **CVPR 2024** | Language-to-3D scene, spatial reasoning <a href="https://github.com/allenai/Holodeck" title="GitHub Repo"><img src="https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social" alt="Stars"></a>
+17. [SceneTeller: Language-to-3D Scene Generation](https://github.com/sceneteller/SceneTeller) - **ECCV 2024** | Language-to-3D scene, spatial reasoning <a href="https://github.com/sceneteller/SceneTeller" title="GitHub Repo"><img src="https://img.shields.io/github/stars/sceneteller/SceneTeller.svg?style=social" alt="Stars"></a>
 
-18. [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | Layout reasoning <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo"><img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars"></a>
+18. [Holodeck: Language-Driven Scene Construction in Virtual Environments](https://github.com/allenai/Holodeck) - **CVPR 2024** | Language-to-3D scene, spatial reasoning <a href="https://github.com/allenai/Holodeck" title="GitHub Repo"><img src="https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social" alt="Stars"></a>
+
+19. [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | Layout reasoning <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo"><img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars"></a>
 
 <a id="agentic-3d-object-generation"></a>
 ### Agentic 3D Object Generation
