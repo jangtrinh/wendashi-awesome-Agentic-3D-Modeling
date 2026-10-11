@@ -14,6 +14,7 @@
   - [Executable World Models & Physical Reasoning](#executable-world-models-physical-reasoning)
   - [Agentic (3D) Game Generation/Development](#agentic-3d-game-generation-development)
   - [Agentic 3D Benchmarks](#agentic-3d-benchmarks)
+  - [Agentic 3D Generation For 2D Creation](#agentic-3d-generation-for-2d-creation)
   - [MLLM-based 3D Generation and Understanding](#mllm-based-3d-generation-and-understanding)
 - [3D Agents & Modeling Frameworks](#agents-modeling-frameworks)
   - [Vision & CAD Integration](#vision-cad-integration)
@@ -123,6 +124,11 @@
 2. [BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://github.com/BenchCAD/BenchCAD-main) - **2026** | Execution-grounded programmatic CAD benchmark, 17,900 CadQuery programs, vision-to-code, code editing, and QA tasks <a href="https://github.com/BenchCAD/BenchCAD-main" title="GitHub Repo"><img src="https://img.shields.io/github/stars/BenchCAD/BenchCAD-main.svg?style=social" alt="Stars"></a>
 
 3. [BenchCAD 2.0](https://github.com/BenchCAD-org/benchcad-2) - **2026** | Community-grounded parametric CAD benchmark data pipeline, auditable part families, multi-turn refinement, and successor repository to BenchCAD <a href="https://github.com/BenchCAD-org/benchcad-2" title="GitHub Repo"><img src="https://img.shields.io/github/stars/BenchCAD-org/benchcad-2.svg?style=social" alt="Stars"></a>
+
+<a id="agentic-3d-generation-for-2d-creation"></a>
+### Agentic 3D Generation For 2D Creation
+
+1. [BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing](https://blenderfusion.github.io/) - **arXiv 2025** | 3D-grounded visual compositing, Blender-based editing, object/camera/background control, and 2D image creation via layering-editing-compositing
 
 <a id="mllm-based-3d-generation-and-understanding"></a>
 ### MLLM-based 3D Generation and Understanding
