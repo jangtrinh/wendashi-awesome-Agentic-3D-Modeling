@@ -82,19 +82,21 @@
 
 3. [ViSculpt: Visual-Centric Agentic Geometry Editing](https://arxiv.org/abs/2608.24169) - **arXiv 2026** | Multi-agent Blender GUI control, localized mesh editing, visual feedback <a href="https://github.com/sig-pku/ViSculpt" title="GitHub Repo"><img src="https://img.shields.io/github/stars/sig-pku/ViSculpt.svg?style=social" alt="Stars"></a>
 
-4. [EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling](https://arxiv.org/abs/2610.02298) - **arXiv 2026** | Long-horizon part-level 3D editing benchmark, multi-turn object state chains, part assembly and retexturing <a href="https://github.com/AlayaLab/EditHero" title="GitHub Repo"><img src="https://img.shields.io/github/stars/AlayaLab/EditHero.svg?style=social" alt="Stars"></a>
+4. [USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation](https://xingyoujun.github.io/usdcraft/#application) - **arXiv 2026** | Text/image-to-programmatic articulated assets, geometry-grounded modeling, physical parameters, and Isaac Sim-ready USD export
 
-5. [CoGen3D: An Agentic Human-AI Co-Design Pipeline for 3D Asset Generation for Virtual Reality](https://arxiv.org/abs/2607.03731) - **arXiv 2026** | Conversational co-design, image-to-3D, immersive deployment
+5. [EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling](https://arxiv.org/abs/2610.02298) - **arXiv 2026** | Long-horizon part-level 3D editing benchmark, multi-turn object state chains, part assembly and retexturing <a href="https://github.com/AlayaLab/EditHero" title="GitHub Repo"><img src="https://img.shields.io/github/stars/AlayaLab/EditHero.svg?style=social" alt="Stars"></a>
 
-6. [PhysForge: Agentic Physics-Based 3D Object Generation and Simulation](https://github.com/HKU-MMLab/PhysForge) - **ICML 2026** | Physics-driven generation, agentic workflow <a href="https://github.com/HKU-MMLab/PhysForge" title="GitHub Repo"><img src="https://img.shields.io/github/stars/HKU-MMLab/PhysForge.svg?style=social" alt="Stars"></a>
+6. [CoGen3D: An Agentic Human-AI Co-Design Pipeline for 3D Asset Generation for Virtual Reality](https://arxiv.org/abs/2607.03731) - **arXiv 2026** | Conversational co-design, image-to-3D, immersive deployment
 
-7. [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://github.com/ziangcao0312/PhysX-Anything) - **CVPR 2026** | Image-to-3D, physical modeling, simulation-ready assets <a href="https://github.com/ziangcao0312/PhysX-Anything" title="GitHub Repo"><img src="https://img.shields.io/github/stars/ziangcao0312/PhysX-Anything.svg?style=social" alt="Stars"></a>
+7. [PhysForge: Agentic Physics-Based 3D Object Generation and Simulation](https://github.com/HKU-MMLab/PhysForge) - **ICML 2026** | Physics-driven generation, agentic workflow <a href="https://github.com/HKU-MMLab/PhysForge" title="GitHub Repo"><img src="https://img.shields.io/github/stars/HKU-MMLab/PhysForge.svg?style=social" alt="Stars"></a>
 
-8. [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation](https://github.com/physx-omni/PhysX-Omni) | Physical 3D generation, rigid/deformable/articulated objects <a href="https://github.com/physx-omni/PhysX-Omni" title="GitHub Repo"><img src="https://img.shields.io/github/stars/physx-omni/PhysX-Omni.svg?style=social" alt="Stars"></a>
+8. [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://github.com/ziangcao0312/PhysX-Anything) - **CVPR 2026** | Image-to-3D, physical modeling, simulation-ready assets <a href="https://github.com/ziangcao0312/PhysX-Anything" title="GitHub Repo"><img src="https://img.shields.io/github/stars/ziangcao0312/PhysX-Anything.svg?style=social" alt="Stars"></a>
 
-9. [MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh](https://github.com/Fangkang515/MeshLLM) - **ICCV 2025** | Multimodal LLM <a href="https://github.com/Fangkang515/MeshLLM" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Fangkang515/MeshLLM.svg?style=social" alt="Stars"></a>
+9. [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation](https://github.com/physx-omni/PhysX-Omni) | Physical 3D generation, rigid/deformable/articulated objects <a href="https://github.com/physx-omni/PhysX-Omni" title="GitHub Repo"><img src="https://img.shields.io/github/stars/physx-omni/PhysX-Omni.svg?style=social" alt="Stars"></a>
 
-10. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo"><img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars"></a>
+10. [MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh](https://github.com/Fangkang515/MeshLLM) - **ICCV 2025** | Multimodal LLM <a href="https://github.com/Fangkang515/MeshLLM" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Fangkang515/MeshLLM.svg?style=social" alt="Stars"></a>
+
+11. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo"><img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars"></a>
 
 <a id="agentic-3d-material-shader-generation"></a>
 ### Agentic 3D Material / Shader Generation
@@ -128,6 +130,8 @@
 2. [BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://github.com/BenchCAD/BenchCAD-main) - **2026** | Execution-grounded programmatic CAD benchmark, 17,900 CadQuery programs, vision-to-code, code editing, and QA tasks <a href="https://github.com/BenchCAD/BenchCAD-main" title="GitHub Repo"><img src="https://img.shields.io/github/stars/BenchCAD/BenchCAD-main.svg?style=social" alt="Stars"></a>
 
 3. [BenchCAD 2.0](https://github.com/BenchCAD-org/benchcad-2) - **2026** | Community-grounded parametric CAD benchmark data pipeline, auditable part families, multi-turn refinement, and successor repository to BenchCAD <a href="https://github.com/BenchCAD-org/benchcad-2" title="GitHub Repo"><img src="https://img.shields.io/github/stars/BenchCAD-org/benchcad-2.svg?style=social" alt="Stars"></a>
+
+4. [BlenderWorld](https://github.com/QwenLM/BlenderWorld) - Benchmark for visual agents creating editable Blender scenes from real-world references, with rubric-based structural and visual evaluation <a href="https://github.com/QwenLM/BlenderWorld" title="GitHub Repo"><img src="https://img.shields.io/github/stars/QwenLM/BlenderWorld.svg?style=social" alt="Stars"></a>
 
 <a id="agentic-3d-generation-for-2d-creation"></a>
 ### Agentic 3D Generation For 2D Creation
