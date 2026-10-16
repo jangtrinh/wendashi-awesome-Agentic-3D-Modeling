@@ -4,7 +4,7 @@
 >
 > Curated list of high-quality open-source projects and resources for AI-powered 3D modeling, design, and content generation using agentic approaches.
 
-![alt text](image.png)
+![Overview of agentic 3D generation](./img/overview.png)
 
 ---
 
