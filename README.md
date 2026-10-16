@@ -73,6 +73,10 @@
 
 19. [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | Layout reasoning <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo"><img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars"></a>
 
+20. [LEGO-Anything: Coding Agents for 3D Scene Reconstruction](https://lego-anything.com) - **arXiv 2026** | Image-to-editable Blender scene reconstruction through coding agents, iterative rendering and validation, plus LEGO-Bench evaluation
+
+21. [NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation](https://neoworldproject.github.io/neoworld-pro-website/) - **arXiv 2026** | MLLM-generated executable scene programs from monocular images, physics-in-the-loop refinement, articulated objects, and simulation-ready interactive scenes
+
 <a id="agentic-3d-object-generation"></a>
 ### Agentic 3D Object Generation
 
@@ -84,19 +88,23 @@
 
 4. [USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation](https://xingyoujun.github.io/usdcraft/#application) - **arXiv 2026** | Text/image-to-programmatic articulated assets, geometry-grounded modeling, physical parameters, and Isaac Sim-ready USD export
 
-5. [EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling](https://arxiv.org/abs/2610.02298) - **arXiv 2026** | Long-horizon part-level 3D editing benchmark, multi-turn object state chains, part assembly and retexturing <a href="https://github.com/AlayaLab/EditHero" title="GitHub Repo"><img src="https://img.shields.io/github/stars/AlayaLab/EditHero.svg?style=social" alt="Stars"></a>
+5. [SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM](https://github.com/ByteDance-Seed/SimArt) - **SIGGRAPH 2026** | MLLM-based part decomposition and kinematic prediction, sparse 3D VQ-VAE, and URDF generation for physics-based simulation
 
-6. [CoGen3D: An Agentic Human-AI Co-Design Pipeline for 3D Asset Generation for Virtual Reality](https://arxiv.org/abs/2607.03731) - **arXiv 2026** | Conversational co-design, image-to-3D, immersive deployment
+6. [Artisan: Towards Physically Grounded Articulated 3D Assets](https://github.com/physicalvision/Artisan) - **arXiv 2026** | Multi-agent design, coding, and review pipeline for articulated asset generation with procedural modeling, physical simulation feedback, and benchmark evaluation
 
-7. [PhysForge: Agentic Physics-Based 3D Object Generation and Simulation](https://github.com/HKU-MMLab/PhysForge) - **ICML 2026** | Physics-driven generation, agentic workflow <a href="https://github.com/HKU-MMLab/PhysForge" title="GitHub Repo"><img src="https://img.shields.io/github/stars/HKU-MMLab/PhysForge.svg?style=social" alt="Stars"></a>
+7. [EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling](https://arxiv.org/abs/2610.02298) - **arXiv 2026** | Long-horizon part-level 3D editing benchmark, multi-turn object state chains, part assembly and retexturing <a href="https://github.com/AlayaLab/EditHero" title="GitHub Repo"><img src="https://img.shields.io/github/stars/AlayaLab/EditHero.svg?style=social" alt="Stars"></a>
 
-8. [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://github.com/ziangcao0312/PhysX-Anything) - **CVPR 2026** | Image-to-3D, physical modeling, simulation-ready assets <a href="https://github.com/ziangcao0312/PhysX-Anything" title="GitHub Repo"><img src="https://img.shields.io/github/stars/ziangcao0312/PhysX-Anything.svg?style=social" alt="Stars"></a>
+8. [CoGen3D: An Agentic Human-AI Co-Design Pipeline for 3D Asset Generation for Virtual Reality](https://arxiv.org/abs/2607.03731) - **arXiv 2026** | Conversational co-design, image-to-3D, immersive deployment
 
-9. [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation](https://github.com/physx-omni/PhysX-Omni) | Physical 3D generation, rigid/deformable/articulated objects <a href="https://github.com/physx-omni/PhysX-Omni" title="GitHub Repo"><img src="https://img.shields.io/github/stars/physx-omni/PhysX-Omni.svg?style=social" alt="Stars"></a>
+9. [PhysForge: Agentic Physics-Based 3D Object Generation and Simulation](https://github.com/HKU-MMLab/PhysForge) - **ICML 2026** | Physics-driven generation, agentic workflow <a href="https://github.com/HKU-MMLab/PhysForge" title="GitHub Repo"><img src="https://img.shields.io/github/stars/HKU-MMLab/PhysForge.svg?style=social" alt="Stars"></a>
 
-10. [MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh](https://github.com/Fangkang515/MeshLLM) - **ICCV 2025** | Multimodal LLM <a href="https://github.com/Fangkang515/MeshLLM" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Fangkang515/MeshLLM.svg?style=social" alt="Stars"></a>
+10. [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://github.com/ziangcao0312/PhysX-Anything) - **CVPR 2026** | Image-to-3D, physical modeling, simulation-ready assets <a href="https://github.com/ziangcao0312/PhysX-Anything" title="GitHub Repo"><img src="https://img.shields.io/github/stars/ziangcao0312/PhysX-Anything.svg?style=social" alt="Stars"></a>
 
-11. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo"><img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars"></a>
+11. [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation](https://github.com/physx-omni/PhysX-Omni) | Physical 3D generation, rigid/deformable/articulated objects <a href="https://github.com/physx-omni/PhysX-Omni" title="GitHub Repo"><img src="https://img.shields.io/github/stars/physx-omni/PhysX-Omni.svg?style=social" alt="Stars"></a>
+
+12. [MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh](https://github.com/Fangkang515/MeshLLM) - **ICCV 2025** | Multimodal LLM <a href="https://github.com/Fangkang515/MeshLLM" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Fangkang515/MeshLLM.svg?style=social" alt="Stars"></a>
+
+13. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo"><img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars"></a>
 
 <a id="agentic-3d-material-shader-generation"></a>
 ### Agentic 3D Material / Shader Generation
