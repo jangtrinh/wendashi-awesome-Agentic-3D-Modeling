@@ -43,7 +43,7 @@
 
 4. [Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis](https://code-as-room.github.io/) - **arXiv 2026** | Multi-stage MLLM agents, Blender code, cross-stage memory <a href="https://github.com/YxuanAr/Code-as-Room" title="GitHub Repo"><img src="https://img.shields.io/github/stars/YxuanAr/Code-as-Room.svg?style=social" alt="Stars"></a>
 
-5. [VIGA: Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](https://arxiv.org/abs/2601.11109) - **arXiv 2026** | Analysis-by-synthesis code agent, interleaved generator-verifier loop, Blender scene reconstruction, editing, and dynamic scene synthesis <a href="https://github.com/Fugtemypt123/VIGA" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Fugtemypt123/VIGA.svg?style=social" alt="Stars"></a>
+5. [VIGA: Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](https://fugtemypt123.github.io/VIGA-website/) - **arXiv 2026** | Analysis-by-synthesis code agent, interleaved generator-verifier loop, Blender scene reconstruction, editing, and dynamic scene synthesis <a href="https://github.com/Fugtemypt123/VIGA" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Fugtemypt123/VIGA.svg?style=social" alt="Stars"></a>
 
 6. [SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation](https://arxiv.org/abs/2607.01766) - **arXiv 2026** | Dynamic 4D scenes, Blender agents, deterministic verification
 
@@ -77,6 +77,22 @@
 
 21. [NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation](https://neoworldproject.github.io/neoworld-pro-website/) - **arXiv 2026** | MLLM-generated executable scene programs from monocular images, physics-in-the-loop refinement, articulated objects, and simulation-ready interactive scenes
 
+22. [3DCodeVerse: Exploring 3D Worlds as Code](https://3dcodeverse.com/) - **2026** | Code-based 3D world generation and exploration <a href="https://github.com/gaoypeng/3dcodeverse" title="GitHub Repo"><img src="https://img.shields.io/github/stars/gaoypeng/3dcodeverse.svg?style=social" alt="Stars"></a>
+
+23. [SceneCraft: An LLM Agent for Synthesizing 3D Scenes as Blender Code](https://proceedings.mlr.press/v235/hu24g.html) - **ICML 2024** | LLM agent for generating and refining executable Blender scene programs
+
+24. [BlenderLLM: Training Large Language Models for Computer-Aided Design with Self-improvement](https://github.com/FreedomIntelligence/BlenderLLM) - **2024** | BlendNet dataset and self-improving LLM training for Blender code generation <a href="https://github.com/FreedomIntelligence/BlenderLLM" title="GitHub Repo"><img src="https://img.shields.io/github/stars/FreedomIntelligence/BlenderLLM.svg?style=social" alt="Stars"></a>
+
+25. [WorldAgents: Can Foundation Image Models be Agents for 3D World Models?](https://arxiv.org/abs/2603.19708) - **ECCV 2026** | Multi-agent 3D world synthesis with a VLM director, image generator, and two-stage 2D/3D verifier
+
+26. [NaLA: A 3D Native LLM Layout Agent for High-quality 3D Scene Generation](https://adamcwan.github.io/NaLA/) - **ECCV 2026** | Native 3D scene and asset tokens, collision/support reasoning, coarse-to-fine object placement <a href="https://github.com/adamcwan/NaLA-code" title="GitHub Repo"><img src="https://img.shields.io/github/stars/adamcwan/NaLA-code.svg?style=social" alt="Stars"></a>
+
+27. [SceneOrchestra: Efficient Agentic 3D Scene Synthesis via Full Tool-Call Trajectory Generation](https://arxiv.org/abs/2604.19907) - **ECCV 2026** | Trainable tool orchestrator, discriminator-selected execution trajectories, efficient 3D scene synthesis <a href="https://github.com/yunhe24/sceneorchestra" title="GitHub Repo"><img src="https://img.shields.io/github/stars/yunhe24/sceneorchestra.svg?style=social" alt="Stars"></a>
+
+28. [SceneSpinner: Taming LLMs for Codematic Indoor Scene Generation](https://jfzhang95.github.io/) - **ECCV 2026** | Language-planned generation of editable indoor scenes as structured code
+
+29. [HoloCode: A Code-Centric Multi-Agent Framework for Image-to-3D Scene Generation](https://neurips.cc/virtual/2026/poster/152551) - **NeurIPS 2026** | Code-centric multi-agent image-to-3D scene generation
+
 <a id="agentic-3d-object-generation"></a>
 ### Agentic 3D Object Generation
 
@@ -106,11 +122,21 @@
 
 13. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo"><img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars"></a>
 
+14. [Articraft: An Agentic System for Scalable Articulated 3D Asset Generation](https://articraft3d.github.io/) - **2026** | Agentic generation of scalable, articulated 3D assets <a href="https://github.com/articraftresearch/Articraft" title="GitHub Repo"><img src="https://img.shields.io/github/stars/articraftresearch/Articraft.svg?style=social" alt="Stars"></a>
+
+15. [LAM: Language Articulated Object Modelers](https://gaoypeng.github.io/LAM/) - **CVPR 2026** | Language-guided modeling of articulated 3D objects <a href="https://github.com/gaoypeng/LAM" title="GitHub Repo"><img src="https://img.shields.io/github/stars/gaoypeng/LAM.svg?style=social" alt="Stars"></a>
+
+16. [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/) - **2025** | Large-language-model-driven 3D modeling <a href="https://github.com/threedle/ll3m" title="GitHub Repo"><img src="https://img.shields.io/github/stars/threedle/ll3m.svg?style=social" alt="Stars"></a>
+
+17. [Articulate-Anything: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model](https://articulate-anything.github.io/) - **ICLR 2025** | Vision-language-based automatic modeling of articulated objects <a href="https://github.com/vlongle/articulate-anything" title="GitHub Repo"><img src="https://img.shields.io/github/stars/vlongle/articulate-anything.svg?style=social" alt="Stars"></a>
+
 <a id="agentic-3d-material-shader-generation"></a>
 ### Agentic 3D Material / Shader Generation
 1. [ShaderAgent: Self-Evolving Agentic Procedural Material Generation](https://github.com/VAST-AI-Research/ShaderAgent) - **SIGGRAPH Asia 2026** | Reference-image-to-editable Blender procedural materials, shader DSL, reason-act-critic optimization
 
 2. [VLMaterial: Procedural Material Generation with Large Vision-Language Models](https://github.com/mit-gfx/VLMaterial) - **ICLR 2025 Spotlight** | Open-source procedural material dataset and propose to perform program-level augmentation by prompting another pre-trained LLM
+
+3. [Shaders21k: Procedural Image Programs for Representation Learning](https://github.com/mbaradad/shaders21k) - **NeurIPS 2022** | Large-scale dataset of procedural shader programs for representation learning <a href="https://github.com/mbaradad/shaders21k" title="GitHub Repo"><img src="https://img.shields.io/github/stars/mbaradad/shaders21k.svg?style=social" alt="Stars"></a>
 
 <a id="agentic-3d-simulation"></a>
 ### Agentic 3D Simulation
@@ -133,13 +159,23 @@
 <a id="agentic-3d-benchmarks"></a>
 ### Agentic 3D Benchmarks
 
-1. [3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code](https://github.com/gaoypeng/3dcodebench) - **arXiv 2026** | VLM coding agents, Blender execution feedback, procedural 3D evaluation <a href="https://github.com/gaoypeng/3dcodebench" title="GitHub Repo"><img src="https://img.shields.io/github/stars/gaoypeng/3dcodebench.svg?style=social" alt="Stars"></a>
+1. [3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code](https://www.3dcodebench.com/) - **arXiv 2026** | VLM coding agents, Blender execution feedback, procedural 3D evaluation <a href="https://github.com/gaoypeng/3dcodebench" title="GitHub Repo"><img src="https://img.shields.io/github/stars/gaoypeng/3dcodebench.svg?style=social" alt="Stars"></a>
 
-2. [BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://github.com/BenchCAD/BenchCAD-main) - **2026** | Execution-grounded programmatic CAD benchmark, 17,900 CadQuery programs, vision-to-code, code editing, and QA tasks <a href="https://github.com/BenchCAD/BenchCAD-main" title="GitHub Repo"><img src="https://img.shields.io/github/stars/BenchCAD/BenchCAD-main.svg?style=social" alt="Stars"></a>
+2. [WorldCoder-Bench: Benchmarking Physically Grounded 3D World Synthesis](https://github.com/shuolucs/WorldCoder-Bench) - **2026** | Benchmark for physically grounded 3D world synthesis <a href="https://github.com/shuolucs/WorldCoder-Bench" title="GitHub Repo"><img src="https://img.shields.io/github/stars/shuolucs/WorldCoder-Bench.svg?style=social" alt="Stars"></a>
 
-3. [BenchCAD 2.0](https://github.com/BenchCAD-org/benchcad-2) - **2026** | Community-grounded parametric CAD benchmark data pipeline, auditable part families, multi-turn refinement, and successor repository to BenchCAD <a href="https://github.com/BenchCAD-org/benchcad-2" title="GitHub Repo"><img src="https://img.shields.io/github/stars/BenchCAD-org/benchcad-2.svg?style=social" alt="Stars"></a>
+3. [SceneActBench: Can Agents Act on the 3D Scenes They See?](https://feinaldo2.github.io/sceneactbench-project-page/) - **2026** | Benchmark for evaluating whether agents can perceive and act in 3D scenes <a href="https://github.com/Feinaldo2/SceneActBench" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Feinaldo2/SceneActBench.svg?style=social" alt="Stars"></a>
 
-4. [BlenderWorld](https://github.com/QwenLM/BlenderWorld) - Benchmark for visual agents creating editable Blender scenes from real-world references, with rubric-based structural and visual evaluation <a href="https://github.com/QwenLM/BlenderWorld" title="GitHub Repo"><img src="https://img.shields.io/github/stars/QwenLM/BlenderWorld.svg?style=social" alt="Stars"></a>
+4. [3DHarnessBench: Probing Agentic 3D-to-Code Capabilities of Frontier Vision-Language Models](https://llada60.github.io/3DHarnessBench/) - **2026** | Benchmark for agentic 3D-to-code capabilities of frontier VLMs <a href="https://github.com/llada60/3DHarnessBench" title="GitHub Repo"><img src="https://img.shields.io/github/stars/llada60/3DHarnessBench.svg?style=social" alt="Stars"></a>
+
+5. [BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://github.com/BenchCAD/BenchCAD-main) - **2026** | Execution-grounded programmatic CAD benchmark, 17,900 CadQuery programs, vision-to-code, code editing, and QA tasks <a href="https://github.com/BenchCAD/BenchCAD-main" title="GitHub Repo"><img src="https://img.shields.io/github/stars/BenchCAD/BenchCAD-main.svg?style=social" alt="Stars"></a>
+
+6. [BenchCAD 2.0](https://github.com/BenchCAD-org/benchcad-2) - **2026** | Community-grounded parametric CAD benchmark data pipeline, auditable part families, multi-turn refinement, and successor repository to BenchCAD <a href="https://github.com/BenchCAD-org/benchcad-2" title="GitHub Repo"><img src="https://img.shields.io/github/stars/BenchCAD-org/benchcad-2.svg?style=social" alt="Stars"></a>
+
+7. [BlenderWorld](https://github.com/QwenLM/BlenderWorld) - Benchmark for visual agents creating editable Blender scenes from real-world references, with rubric-based structural and visual evaluation <a href="https://github.com/QwenLM/BlenderWorld" title="GitHub Repo"><img src="https://img.shields.io/github/stars/QwenLM/BlenderWorld.svg?style=social" alt="Stars"></a>
+
+8. [BlenderGym: Benchmarking Foundational Model Systems for Graphics Editing](https://blendergym.github.io/) - **CVPR 2025** | Benchmark for foundational-model systems performing graphics editing in Blender <a href="https://github.com/richard-guyunqi/BlenderGym-Open" title="GitHub Repo"><img src="https://img.shields.io/github/stars/richard-guyunqi/BlenderGym-Open.svg?style=social" alt="Stars"></a>
+
+9. [BlenderFORGE: Framework for Optimizing Reactive 3D-Graphics Editing Ability of MLLMs](https://neurips.cc/virtual/2026/poster/151100) - **NeurIPS 2026** | Framework for training and evaluating reactive MLLM-based 3D graphics editing
 
 <a id="agentic-3d-generation-for-2d-creation"></a>
 ### Agentic 3D Generation For 2D Creation
@@ -179,15 +215,23 @@
 
 2. [Embodied CAD: Solver-Grounded LLM Agents for Parametric B-Rep Assembly Modeling](https://arxiv.org/abs/2606.31252) - **arXiv 2026** | Parametric assemblies, exact-kernel feedback, solver-grounded planning and repair
 
-3. [Shpigford/nurb](https://github.com/Shpigford/nurb) - Agentic CAD for 3D printing using parametric B-rep solids, exact-geometry printability checks, slicer estimates, stress analysis, and print-ready 3MF export. <a href="https://github.com/Shpigford/nurb" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Shpigford/nurb.svg?style=social" alt="Stars"></a>
+3. [CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers](https://cadassistant.github.io/) - **ICCV 2025** | Tool-augmented vision-language models for generic CAD tasks <a href="https://github.com/dimitrismallis/CAD-Assistant" title="GitHub Repo"><img src="https://img.shields.io/github/stars/dimitrismallis/CAD-Assistant.svg?style=social" alt="Stars"></a>
 
-4. [datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN](https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN) - AI Agent-enabled workflow for automated conversion of CAD files <a href="https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN" title="GitHub Repo"><img src="https://img.shields.io/github/stars/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN.svg?style=social" alt="Stars"></a>
+4. [CAD-Recode: Reverse Engineering CAD Code from Point Clouds](https://github.com/filaPro/cad-recode) - **ICCV 2025** | Reverse engineering executable CAD code from point clouds <a href="https://github.com/filaPro/cad-recode" title="GitHub Repo"><img src="https://img.shields.io/github/stars/filaPro/cad-recode.svg?style=social" alt="Stars"></a>
 
-5. [datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR) - Open multilingual construction cost database <a href="https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR" title="GitHub Repo"><img src="https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR.svg?style=social" alt="Stars"></a>
+5. [MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds](https://daibingquan.github.io/MeshCoder/) - **NeurIPS 2025** (listed as 2026 in the cited reference) | Structured mesh-code generation from point clouds <a href="https://github.com/InternRobotics/MeshCoder" title="GitHub Repo"><img src="https://img.shields.io/github/stars/InternRobotics/MeshCoder.svg?style=social" alt="Stars"></a>
 
-6. [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! Get software-like design reuse, validation, version control and collaboration in hardware. <a href="https://github.com/atopile/atopile" title="GitHub Repo"><img src="https://img.shields.io/github/stars/atopile/atopile.svg?style=social" alt="Stars"></a>
+6. [Generating CAD Code with Vision-Language Models for 3D Designs](https://github.com/Kamel773/CAD_Code_Generation) - **ICLR 2025** | CADCodeVerify framework for generating and verifying CAD code with vision-language models <a href="https://github.com/Kamel773/CAD_Code_Generation" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Kamel773/CAD_Code_Generation.svg?style=social" alt="Stars"></a>
 
-7. [assalas/pcb-designer-ai-agent](https://github.com/assalas/pcb-designer-ai-agent) - Intelligent AI-powered PCB design automation tool using ML for component placement and routing optimization. <a href="https://github.com/assalas/pcb-designer-ai-agent" title="GitHub Repo"><img src="https://img.shields.io/github/stars/assalas/pcb-designer-ai-agent.svg?style=social" alt="Stars"></a>
+7. [Shpigford/nurb](https://github.com/Shpigford/nurb) - Agentic CAD for 3D printing using parametric B-rep solids, exact-geometry printability checks, slicer estimates, stress analysis, and print-ready 3MF export. <a href="https://github.com/Shpigford/nurb" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Shpigford/nurb.svg?style=social" alt="Stars"></a>
+
+8. [datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN](https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN) - AI Agent-enabled workflow for automated conversion of CAD files <a href="https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN" title="GitHub Repo"><img src="https://img.shields.io/github/stars/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN.svg?style=social" alt="Stars"></a>
+
+9. [datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR) - Open multilingual construction cost database <a href="https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR" title="GitHub Repo"><img src="https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR.svg?style=social" alt="Stars"></a>
+
+10. [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! Get software-like design reuse, validation, version control and collaboration in hardware. <a href="https://github.com/atopile/atopile" title="GitHub Repo"><img src="https://img.shields.io/github/stars/atopile/atopile.svg?style=social" alt="Stars"></a>
+
+11. [assalas/pcb-designer-ai-agent](https://github.com/assalas/pcb-designer-ai-agent) - Intelligent AI-powered PCB design automation tool using ML for component placement and routing optimization. <a href="https://github.com/assalas/pcb-designer-ai-agent" title="GitHub Repo"><img src="https://img.shields.io/github/stars/assalas/pcb-designer-ai-agent.svg?style=social" alt="Stars"></a>
 
 
 <a id="game-development-framework"></a>
